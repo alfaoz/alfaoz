@@ -1,3 +1,1 @@
-### conventionally unconventional dev
-
-#### check out [alfaoz.dev](https://alfaoz.dev)!
+## [conventionally unconventional developer](https://alfaoz.dev)!
