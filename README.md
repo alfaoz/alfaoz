@@ -1,1 +1,1 @@
-## [conventionally unconventional developer](https://alfaoz.dev)!
+## [conventionally unconventional developer](https://alfaoz.dev)
